@@ -5,7 +5,7 @@
 + powerlevel10k zsh theme - https://aur.archlinux.org/packages/zsh-theme-powerlevel10k-git/
 + konsole - sudo pacman -S konsole
 + yakuake - sudo pacman -S yakuake
-+ vs code - https://aur.archlinux.org/packages/visual-studio-code-bin/
++ vs code - 
 + dolphin - sudo pacman -S dolphin
 	* Dots contains vscode context menu entry
 
