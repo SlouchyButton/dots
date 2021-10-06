@@ -9,6 +9,8 @@
 + dolphin - sudo pacman -S dolphin
 	* Dots contains vscode context menu entry
 
-*Other used software: libreoffice, KDE Plasma*
+**Warning:** Some config files might break something on some systems, dots contain PulseAudio config that turns off annoying auto-mute when calling (very annoying while being on teamspeak or other calling apps)
+
+*Other used software that has config files here: libreoffice, KDE Plasma*
 
 *Note to self: Use VS code from AUR repo, becuase official VS code is OSS without proprietery features - **DOES NOT HAVE MICROSOFT SYNC AND LOGIN FEATURES***
