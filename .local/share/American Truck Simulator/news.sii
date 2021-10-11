@@ -1,0 +1,503 @@
+SiiNunit
+{
+news_messages : _nameless.1f3.5c10.08d0 {
+ update_timestamp: 1607326592
+ for_version: "1.39.3.3s"
+ content_id: ""
+ lang_id: en_us
+ latest_version: "1.39.3.3s"
+ latest_version_url: "https://eurotrucksimulator2.com/update.php"
+ messages: 49
+ messages[0]: _nameless.1f3.5a99.e4b0
+ messages[1]: _nameless.1f3.5a99.dc40
+ messages[2]: _nameless.1f3.5a99.f350
+ messages[3]: _nameless.1f3.5a99.eb70
+ messages[4]: _nameless.1f3.5a99.edb0
+ messages[5]: _nameless.1f3.5a99.e660
+ messages[6]: _nameless.1f3.5a99.fce0
+ messages[7]: _nameless.1f3.5a99.de80
+ messages[8]: _nameless.1f3.5a99.f8f0
+ messages[9]: _nameless.1f3.5a99.fe00
+ messages[10]: _nameless.1f3.5a99.e8a0
+ messages[11]: _nameless.1f3.5a99.f7d0
+ messages[12]: _nameless.1f3.5a99.f620
+ messages[13]: _nameless.1f3.5a99.f980
+ messages[14]: _nameless.1f3.5a99.e270
+ messages[15]: _nameless.1f3.5a99.e0c0
+ messages[16]: _nameless.1f3.5a99.fa10
+ messages[17]: _nameless.1f3.5a99.ee40
+ messages[18]: _nameless.1f3.5a99.e150
+ messages[19]: _nameless.1f3.5a99.e300
+ messages[20]: _nameless.1f3.5a99.e390
+ messages[21]: _nameless.1f3.5a99.e420
+ messages[22]: _nameless.1f3.5a99.e5d0
+ messages[23]: _nameless.1f3.5a99.ea50
+ messages[24]: _nameless.1f3.5a99.e810
+ messages[25]: _nameless.1f3.5a99.eed0
+ messages[26]: _nameless.1f3.5a99.f1a0
+ messages[27]: _nameless.1f3.5a99.ef60
+ messages[28]: _nameless.1f3.5a99.eff0
+ messages[29]: _nameless.1f3.5a99.f080
+ messages[30]: _nameless.1f3.5a99.f470
+ messages[31]: _nameless.1f3.5a99.e9c0
+ messages[32]: _nameless.1f3.5a99.f110
+ messages[33]: _nameless.1f3.5a9a.1b40
+ messages[34]: _nameless.1f3.5a9a.1cf0
+ messages[35]: _nameless.1f3.5a9a.0b80
+ messages[36]: _nameless.1f3.5a9a.1870
+ messages[37]: _nameless.1f3.5a9a.1360
+ messages[38]: _nameless.1f3.5a9a.0670
+ messages[39]: _nameless.1f3.5a9a.0280
+ messages[40]: _nameless.1f3.5a9a.1750
+ messages[41]: _nameless.1f3.5a9a.1ea0
+ messages[42]: _nameless.1f3.5a9a.1d80
+ messages[43]: _nameless.1f3.5a9a.0c10
+ messages[44]: _nameless.1f3.5a9a.1990
+ messages[45]: _nameless.1f3.5a9a.1120
+ messages[46]: _nameless.1f3.5a9a.05e0
+ messages[47]: _nameless.1f3.5a9a.13f0
+ messages[48]: _nameless.1f3.5a9a.1f30
+}
+
+news_message : _nameless.1f3.5a99.e4b0 {
+ timestamp: 1605204000
+ type: dlc
+ title: Colorado
+ image_hash: 3B54831CD28B0859DC80E4F584DF362E7C378DF346909F728EF14FCB3198529A
+ url: "https://store.steampowered.com/app/1209471/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "See the vastness of the Great Plains with your own eyes. Roam through the Rocky Mountains. Haul cargo on the Million Dollar Highwa. Do all this in Colorful Colorado."
+}
+
+news_message : _nameless.1f3.5a99.dc40 {
+ timestamp: 1605110400
+ type: news
+ title: "#CruisingColorado Event Announcement"
+ image_hash: 890F0EDD792F29B4E6F69E9C218F1043F86600729706BE0629416FE0638ED27D
+ url: "https://blog.scssoft.com/2020/11/cruisingcolorado-event-announcement.html?utm_source=ingame_ats&utm_medium=news"
+ text: "With the Colorado DLC releasing on November 12th, we'd like to celebrate by inviting you all to take part in our latest World of Trucks event - Cruising Colorado. Read the full blog post for rules!"
+}
+
+news_message : _nameless.1f3.5a99.f350 {
+ timestamp: 1604851200
+ type: news
+ title: "Hard Truck Tribute"
+ image_hash: 7DF095D6E1389F427F97490C8C873D5608D3F5A5648F3969E1CEFDE9061F0664
+ url: "https://blog.scssoft.com/2020/11/hard-truck-tribute.html?utm_source=ingame_ats&utm_medium=news"
+ text: "To celebrate 18 years since we released Hard Truck: 18 Wheels of Steel, we wanted to reward our community with the Hard Truck Tribute Paint Job. Complete any 500 miles World of Trucks job and it's yours!"
+}
+
+news_message : _nameless.1f3.5a99.eb70 {
+ timestamp: 1604678400
+ type: news
+ title: "Colorado Release Date Annoucement"
+ image_hash: A8F7D71D8C75006CC19FE3CD48907F31CCE18796EFAA753439770DEF818A91B5
+ url: "https://blog.scssoft.com/2020/11/colorado-release-date-annoucement.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Colorado will be released on the 12th of November 2020! Watch the trailer and let us know what you think about this colorful DLC!"
+}
+
+news_message : _nameless.1f3.5a99.edb0 {
+ timestamp: 1604566800
+ type: news
+ title: "ATS Update 1.39"
+ image_hash: 5629B836452AAF2D37E14CC348F658C110F250E0377936ACFF22FC6B9B233127
+ url: "https://blog.scssoft.com/2020/11/ats-139-update-release.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Update 1.39 is here! New viewpoints in Washington and Utah, other viewpoint feature improvements, launchpad redesign, ownable lowboy trailers, and more!"
+}
+
+news_message : _nameless.1f3.5a99.e660 {
+ timestamp: 1604242800
+ type: news
+ title: "Colorado Springs + Gameplay Video #2"
+ image_hash: D87EE0C6EFF54620AED86390F7281F4D978B69D2497BCA349E58F84CB205EFE8
+ url: "https://blog.scssoft.com/2020/10/colorado-springs-gameplay-video.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Located at the foot of Pikes Peak, you'll find the city of Colorado Springs, the state's 2nd most populous city behind Denver. So what makes this part of the state so attractive to residents and tourists alike? Let's find out!"
+}
+
+news_message : _nameless.1f3.5a99.fce0 {
+ timestamp: 1603465200
+ type: news
+ title: "Colorado: Nature"
+ image_hash: 345FEFEEB20D74493A7F0186010DFBC86CDAB8BF9B1E78C07204309FBE54610A
+ url: "https://blog.scssoft.com/2020/10/colorado-nature.html?utm_source=ingame_ats&utm_medium=news"
+ text: "In our upcoming Colorado DLC for American Truck Simulator, you\xe2\x80\x99ll find many places to enjoy the state's vast natural beauty including national parks, national monuments, state parks, and many other natural attractions."
+}
+
+news_message : _nameless.1f3.5a99.de80 {
+ timestamp: 1602936000
+ type: news
+ title: "Community Spotlight: Truckers.FM 5th Anniversary"
+ image_hash: 345FEFEEB20D74493A7F0186010DFBC86CDAB8BF9B1E78C07204309FBE54610A
+ url: "https://blog.scssoft.com/2020/10/community-spotlight-truckersfm-5th.html?utm_source=ingame_ats&utm_medium=news"
+ text: "On the 16th of October 2015, Truckers.FM began broadcasting on-air with a small team of friends. Today, Truckers.FM is the largest radio station dedicated to the Truck Simulation community and one of the biggest in the gaming radio genre."
+}
+
+news_message : _nameless.1f3.5a99.f8f0 {
+ timestamp: 1602514800
+ type: news
+ title: "Colorado - Denver"
+ image_hash: 41ABBD13884774585783326A5147FFC0199F57CC79F81F99A7F7603A1908522B
+ url: "https://blog.scssoft.com/2020/10/colorado-denver.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Nicknamed the Mile High City, Denver features accurate representations of famous landmarks and industries for drivers to discover and deliver cargo to, in our upcoming Colorado DLC for American Truck Simulator."
+}
+
+news_message : _nameless.1f3.5a99.fe00 {
+ timestamp: 1602255600
+ type: news
+ title: "ATS 1.39 Experimental Open Beta"
+ image_hash: 5203C0472DD4E12BC04BD1097D6F33AB3837C49402DDD3817B678E6DA76803AE
+ url: "https://blog.scssoft.com/2020/10/american-truck-simulator-139-openbeta.html?utm_source=ingame_ats&utm_medium=news"
+ text: "We are happy that the work on the planned 1.39 update has reached an important milestone! We are ready to preview it with the player community in the form of an Experimental Open Beta."
+}
+
+news_message : _nameless.1f3.5a99.e8a0 {
+ timestamp: 1601481600
+ type: news
+ title: "The Western Star\xc2\xae 49X is now available!"
+ image_hash: FEB966E9F80E6E3CC24A73EFE17CBCB55E26D472AFA73C2699FD0EF5E9DD2D98
+ url: "https://blog.scssoft.com/2020/09/the-western-star-49x-is-now-available.html?utm_source=ingame_ats&utm_medium=news"
+ text: "The most tested, durable, and toughest Western Star\xc2\xae truck to-date, the 49X is built to thrive in rugged environments and to take on anything. Out now!"
+}
+
+news_message : _nameless.1f3.5a99.f7d0 {
+ timestamp: 1601391600
+ type: news
+ title: "Colorado: Million Dollar Highway"
+ image_hash: 6FE048249835310C405421BA05AD7462802B2868D3887E0D57D478EE976006A6
+ url: "https://blog.scssoft.com/2020/09/american-truck-simulator-wheel-tuning.html?utm_source=ingame_ats&utm_medium=news"
+ text: "There is one portion of the U.S. Highway 500 that is more famous than any other, the Million Dollar Highway... with a name like that it\xe2\x80\x99s got to be impressive, right?"
+}
+
+news_message : _nameless.1f3.5a99.f620 {
+ timestamp: 1600959600
+ type: news
+ title: "Wheel Tuning Pack DLC Update"
+ image_hash: A5EADEA9940559E93D27972F00E9C7D5AC8D2527D7903060035C475BC932F357
+ url: "https://blog.scssoft.com/2020/09/american-truck-simulator-wheel-tuning.html?utm_source=ingame_ats&utm_medium=news"
+ text: "We are happy to announce that new heavy-duty wheels have arrived in the Wheel Tuning Pack DLC for American Truck Simulator. We are also updating all of our existing 14 rim designs so that they can fit our new wider heavy-duty wheels as well as rear super-single wheels."
+}
+
+news_message : _nameless.1f3.5a99.f980 {
+ timestamp: 1600786800
+ type: news
+ title: "Lowboy Trailers"
+ image_hash: 85191BAB35062A4FAAEA6E7898B4C75F8B01ED4A96AF2401392C0D3CF4C65AB8
+ url: "https://blog.scssoft.com/2020/09/american-truck-simulator-lowboy-trailers.html?utm_source=ingame_ats&utm_medium=news"
+ text: "A trucker wouldn't be much without their truck and trailer, and the same is true within our simulation titles. Today we are excited to share with you some news about lowboy trailers in American Truck Simulator that will come with 1.39 update."
+}
+
+news_message : _nameless.1f3.5a99.e270 {
+ timestamp: 1600268400
+ type: news
+ title: "Colorado: Landmarks"
+ image_hash: F21A0DAF85428F678E6C21B3D7C7E1F922A14A82C12C92EB9A2F7CF114C6B1BF
+ url: "https://blog.scssoft.com/2020/09/colorado-landmarks.html?utm_source=ingame_ats&utm_medium=news"
+ text: "From locations of historical importance to unique structures, the U.S state of Colorado offers a long list of amazing landmarks for visitors and residents alike to admire and vist. So what landmarks will you able to find in the upcoming Colorado DLC?"
+}
+
+news_message : _nameless.1f3.5a99.e0c0 {
+ timestamp: 1599750000
+ type: news
+ title: "The NEXT Western Star\xc2\xae is Coming to American Truck Simulator"
+ image_hash: D6FE1AD0FB19240DF35DC2185FDD9149EDEF8929252CF9EE4238968E302FA12C
+ url: "https://blog.scssoft.com/2020/09/the-next-western-star.html?utm_source=ingame_ats&utm_medium=news"
+ text: "We are very pleased to reveal a top-secret project that we've been working on for the past few months; one that is hugely special for us too. We can now announce that very shortly after The NEXT Western Star\xc2\xae truck releases, we will herald its arrival to American Truck Simulator too."
+}
+
+news_message : _nameless.1f3.5a99.fa10 {
+ timestamp: 1599318000
+ type: news
+ title: "Colorado: There's Gold In Them Thar Hills!"
+ image_hash: D771B3A86CB74B1CDCCBD8C91728B94C26291D7DA28320824573CEB7662ED5CA
+ url: "https://blog.scssoft.com/2020/08/colorado-theres-gold-in-them-thar-hills.html?utm_source=ingame_ats&utm_medium=news"
+ text: "The year is 1890. 45 miles southwest of Colorado Springs, a \"part-time cowboy and full-time drinker\" known as Robert Womack has just found small specks of gold glittering in the local creek, which encouraged him to dig countless prospecting holes in an attempt to find more. The outcome? The richest gold mine in Colorado's history."
+}
+
+news_message : _nameless.1f3.5a99.ee40 {
+ timestamp: 1598972400
+ type: news
+ title: "#CaptureIdaho Contest Winners"
+ image_hash: 1ECEE74658D8FADC2FA0DA02287892CCB1EBF52834CCD5CC5871A797DB0C139E
+ url: "https://blog.scssoft.com/2020/09/captureidaho-contest-winners.html?utm_source=ingame_ats&utm_medium=news"
+ text: "We asked you to get creative and get snapping across Idaho, and disappoint you did not! With over a thousand submissions made using the hashtag #CaptureIdaho across our social media profiles, our judges have had quite the handful to choose their favorites."
+}
+
+news_message : _nameless.1f3.5a99.e150 {
+ timestamp: 1598540400
+ type: news
+ title: "#CruisingIdaho Wrap-Up"
+ image_hash: 54FEABD18F1B30874C266A9DE8F5A80043988EBA84B8F8DA8EBF06A29E0EDA08
+ url: "https://blog.scssoft.com/2020/08/cruisingidaho-wrap-up.html?utm_source=ingame_ats&utm_medium=news"
+ text: "On July 16th, we invited you to take part in our World of Trucks Event #CruisingIdaho, which celebrated the release of Idaho for American Truck Simulator. The community goal at hand was to achieve 30,000,000 miles (48,280,320 km) while delivering cargoes to or from any city in Idaho, and deliver you did."
+}
+
+news_message : _nameless.1f3.5a99.e300 {
+ timestamp: 1598454000
+ type: news
+ title: "SCS Merch Shop: The End Of A Chapter"
+ image_hash: 70EB4F5C2E560FB16F365CBAD3E66D78326373709B49CC32B192935DEAD0AB87
+ url: "https://blog.scssoft.com/2020/08/scs-merch-shop-end-of-chapter.html?utm_source=ingame_ats&utm_medium=news"
+ text: "After three years of service, the official SCS Software e-shop will close on November 30th, 2020. Take a look at clearance sales and specials across our entire range of ETS2, ATS, and SCS Software merchandise!"
+}
+
+news_message : _nameless.1f3.5a99.e390 {
+ timestamp: 1597935600
+ type: news
+ title: "Colorado Road Network"
+ image_hash: 675958A3C5927ECB84645060B4A86B0AFC0A6A7EF728102F43D486BD0661360F
+ url: "https://blog.scssoft.com/2020/08/colorado-road-network-wip.html?utm_source=ingame_ats&utm_medium=news"
+ text: "From unique junctions to famous truck stops, Colorado will feature unique road layouts and landmarks familiar to truckers who drive in the area frequently. One such example is the Mousetrap, read about it on the blog!"
+}
+
+news_message : _nameless.1f3.5a99.e420 {
+ timestamp: 1597677600
+ type: news
+ title: "#CruisingIdaho Extended!"
+ image_hash: F3E5D2EFE6A4D154AE6AACEBDBDB079657220350811087D0A05CC0F060EDD5F7
+ url: "https://blog.scssoft.com/2020/08/cruisingidaho-extended-wip.html?utm_source=ingame_ats&utm_medium=news"
+ text: "After asking our community directly for their opinions on such an extension, we've decided to fulfill these wishes to extend the duration of the #CruisingIdaho event till August 24, 23:59 UTC!"
+}
+
+news_message : _nameless.1f3.5a99.e5d0 {
+ timestamp: 1596639600
+ type: news
+ title: "#CaptureIdaho Contest"
+ image_hash: 1ECEE74658D8FADC2FA0DA02287892CCB1EBF52834CCD5CC5871A797DB0C139E
+ url: "https://blog.scssoft.com/2020/08/captureidaho-contest.html?utm_source=ingame_ats&utm_medium=news"
+ text: "The contest is simple, capture a screenshot from the state of Idaho in American Truck Simulator, and share it with us across any of our official social media channels with the hashtag #CaptureIdaho. You could win some great rewards!"
+}
+
+news_message : _nameless.1f3.5a99.ea50 {
+ timestamp: 1595948400
+ type: news
+ title: "The Great Plains of Colorado"
+ image_hash: D7DCD578A91F55910359612F51B889392B7F76368FC735A24A8DA710DC35123E
+ url: "https://blog.scssoft.com/2020/07/the-great-plains-of-colorado.html?utm_source=ingame_ats&utm_medium=news"
+ text: "From Canada to Texas, the Great Plains is an area that stretches more than 1800 miles across the Americas. Read more with us about these unique grasslands that are prevalent in the state of Colorado!"
+}
+
+news_message : _nameless.1f3.5a99.e810 {
+ timestamp: 1594915200
+ type: dlc
+ title: Idaho
+ image_hash: 163F738F2660F24D1199D996A8652B08DE5EAF006AB39F1AD8668B9572132DEF
+ url: "https://store.steampowered.com/app/1209470/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Welcome to Idaho, a land of rugged beauty that is home to millions of acres of wilderness and a landscape that ranges from desert to fertile farms."
+}
+
+news_message : _nameless.1f3.5a99.eed0 {
+ timestamp: 1594825200
+ type: news
+ title: "Cruising Idaho Event"
+ image_hash: 4D6B4C4A644B52F1E5D55BEB5E4A813439808C087B9093489979947D03CE4372
+ url: "https://blog.scssoft.com/2020/07/cruising-idaho-event.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Join the #CruisingIdaho event, starting with the launch of Idaho DLC on July 16. Take part in its diverse industry, behold its beauty and history as you deliver jobs over the entire state."
+}
+
+news_message : _nameless.1f3.5a99.f1a0 {
+ timestamp: 1594711800
+ type: news
+ title: "ATS Update 1.38 Release"
+ image_hash: 3ECBB96C214ADC47433C5FA9018AAAE08F824B664ACEF2AF40D5BEFB7B2D396D
+ url: "https://blog.scssoft.com/2020/07/american-truck-simulator-138-release.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Update 1.38 is here! Major revamp of Las Vegas, El Centro revamp, US-191, UT-56, more realistic truck stop gas pumps, SSAO, waypoint ETA, RGB color picker improvements, and more."
+}
+
+news_message : _nameless.1f3.5a99.ef60 {
+ timestamp: 1594393200
+ type: news
+ title: "Idaho: Release Date Announcement"
+ image_hash: 0C65B61A5FE4ACEC9E3FB67FBE24CFB464045CA5066C5C1901487FDFAD0F0965
+ url: "https://blog.scssoft.com/2020/07/idaho-release-date-announcement.html?utm_source=ingame_ats&utm_medium=news"
+ text: "With the final touches being made to the Idaho DLC, we are excited to announce a release date for this spudtacular addition to American Truck Simulator. Idaho will be released on the 16th of July 2020!"
+}
+
+news_message : _nameless.1f3.5a99.eff0 {
+ timestamp: 1593961200
+ type: news
+ title: "Under the Hood: Explaining SSAO"
+ image_hash: 0D3BBC799ABB738EF28856BD378C3426FCC464C637874F9B09863BEF0855EAF9
+ url: "https://blog.scssoft.com/2020/07/under-hood-explaining-ssao.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Today, we bring you a new article in our Under the Hood series! This time we're diving deep into explaining Screen Space Ambient Occlusion, also known as SSAO, coming in update 1.38."
+}
+
+news_message : _nameless.1f3.5a99.f080 {
+ timestamp: 1593704700
+ type: news
+ title: "Colorado: New Industries"
+ image_hash: 55AB2014B5C5FC75716C8FE6B0B2F0346FF078180B721860AB5569A243C1EB0F
+ url: "https://blog.scssoft.com/2020/07/colorado-new-industries.html?utm_source=ingame_ats&utm_medium=news"
+ text: "It's no surprise that Colorado is home to the number one wind turbine company in the USA, with a highly trained workforce that builds more towers than any other facility in the world."
+}
+
+news_message : _nameless.1f3.5a99.f470 {
+ timestamp: 1593529200
+ type: news
+ title: "BIG in Idaho!"
+ image_hash: 66C061E4C1458831C904AD9C08D93B7E89F15D9D61A819849CA1353AE049A368
+ url: "https://blog.scssoft.com/2020/06/big-in-idaho.html?utm_source=ingame_ats&utm_medium=news"
+ text: "In the upcoming state of Idaho for American Truck Simulator, owners of the Special Transport DLC will have 3 new routes to drive with the assistance of local law enforcement and escort vehicles."
+}
+
+news_message : _nameless.1f3.5a99.e9c0 {
+ timestamp: 1593356400
+ type: news
+ title: "Idaho: Caution! Contents Are Hot"
+ image_hash: 21E92D47BAD861E88602054588FA505C6C2E007FB0DA65761892460958FF4391
+ url: "https://blog.scssoft.com/2020/06/idaho-caution-contents-are-hot.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Ever wondered what it is like to walk around the Moon? Dream no further! Today, we are taking a closer look at one of Idaho's National Parks that is famous for its volcanic history and Moon-like landscape."
+}
+
+news_message : _nameless.1f3.5a99.f110 {
+ timestamp: 1573149600
+ type: dlc
+ title: Utah
+ image_hash: 0208B1CC2CAA8FED51C526F31202D34074366F7B7228D4529C7DCAD53F17FD2A
+ url: "https://store.steampowered.com/app/1104880/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Welcome to Beehive State Utah. Visit the great Salt Lake City, tourist-favorite Moab or historic St. George cities and see how rich the local architecture and lifestyle are."
+}
+
+news_message : _nameless.1f3.5a9a.1b40 {
+ timestamp: 1569920400
+ type: dlc
+ title: "Pink Ribbon Charity Pack"
+ image_hash: D5EF88ED0ABC9B9F2D724DAC525179ACC5E89AE235CEBBD11F037E64C1BA986A
+ url: "https://store.steampowered.com/app/1162160/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "We will donate 100% of our proceeds of this DLC to reputable Breast Cancer charities. Join in for a good cause!"
+}
+
+news_message : _nameless.1f3.5a9a.1cf0 {
+ timestamp: 1563202800
+ type: dlc
+ title: "Space Paint Jobs Pack"
+ image_hash: 7D2EB6E1E14486B5E0360E047AA698F8480E7D56DA38C3D5C037D6942DDF7272
+ url: "https://store.steampowered.com/app/1116310/American_Truck_Simulator__Space_Paint_Jobs_Pack/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "To celebrate the 50th anniversary of the Moon Landing, we are releasing a very special Space Paint Jobs Pack for American Truck Simulator, including a few unique accessory items for your truck cab."
+}
+
+news_message : _nameless.1f3.5a9a.0b80 {
+ timestamp: 1560272400
+ type: dlc
+ title: Washington
+ image_hash: 86477F87F6BBE553FF5C449F083BB3840A411BCAEEE908C6AA9AD73F6D09C0EA
+ url: "https://store.steampowered.com/app/1015160/American_Truck_Simulator__Washington/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Experience the natural beauty of the \"Evergreen State\" Washington, from its Pacific Coast beaches to snowcapped mountain ranges and bustling cities such as Seattle and Spokane."
+}
+
+news_message : _nameless.1f3.5a9a.1870 {
+ timestamp: 1560272400
+ type: dlc
+ title: "Forest Machinery"
+ image_hash: F7BB69D637A1798D1EE1F9E2EC9ECCD6E33378D9502DFC983D85F653E7FA7E88
+ url: "https://store.steampowered.com/app/1076080/American_Truck_Simulator__Forest_Machinery/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Forest Machinery DLC is the next step in our series of heavy cargo expansions, which introduces machinery and equipment designed and designated for the hard-working people of the wood industry in American Truck Simulator."
+}
+
+news_message : _nameless.1f3.5a9a.1360 {
+ timestamp: 1538656560
+ type: dlc
+ title: "Special Transport"
+ image_hash: EE7276A5ED80355891252FBDC241887A5BF9B0EFE94C629B840A9F4F7D2AAAA9
+ url: "https://store.steampowered.com/app/962750/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "We are calling on American top truck drivers to haul heavy cargo across the country! Do you have what it takes to drive these over-sized cargoes through busy cities and winding country roads?"
+}
+
+news_message : _nameless.1f3.5a9a.0670 {
+ timestamp: 1538656560
+ type: dlc
+ title: Oregon
+ image_hash: 233289F706D59A24957D0A11BB04D9DC6630656538FA359E21C4CF9FB6BA50E1
+ url: "https://store.steampowered.com/app/800370/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Experience the wild beauty of \"Beaver State\" Oregon. Over 5,000 miles of new in-game roads; 14 major cities, including Portland, Salem, and Eugene; 700+ completely new 3D assets; 17 new local company docks and industries."
+}
+
+news_message : _nameless.1f3.5a9a.0280 {
+ timestamp: 1538656560
+ type: dlc
+ title: "Classic Stripes Paint Jobs Pack"
+ image_hash: 1A5F309AF6A8AA93865AC82D652A350CE32AFC45A4225AE4795398C92CCC9933
+ url: "https://store.steampowered.com/app/951650/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Customize your truck and trailer with a choice of eight matching classic paint jobs! Achieve millions of color combinations to suit your taste with fully customizable color palette."
+}
+
+news_message : _nameless.1f3.5a9a.1750 {
+ timestamp: 1534163760
+ type: dlc
+ title: "Dragon Truck Design Pack"
+ image_hash: 02ACFE0BB0F7B02C4A3CE357537781622B8A22A7C45201593E70530CDF0FB337
+ url: "https://store.steampowered.com/app/561620/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Tune up your diesel beast in the dragon motifs and accessories contained in this unique pack which was originally designed as a reward for Christmas event in 2016..."
+}
+
+news_message : _nameless.1f3.5a9a.1ea0 {
+ timestamp: 1510185600
+ type: dlc
+ title: "New Mexico"
+ image_hash: E1BD86D1DAA3B6C6E7E2327B522286769EB8463BD4E41D8A19DC888E94A42ABB
+ url: "http://store.steampowered.com/app/684630/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Discover the subtle beauty of the New Mexico landscape. Its nickname - \xe2\x80\x9cLand of Enchantment\xe2\x80\x9d - fits perfectly. A lot of unique natural scenery will accompany..."
+}
+
+news_message : _nameless.1f3.5a9a.1d80 {
+ timestamp: 1486684800
+ type: dlc
+ title: "Heavy Cargo Pack"
+ image_hash: E7B6D3E3192CF188762572E3D0C5FBF636F61BB1A764604D6A2ACE64588AFF74
+ url: "http://store.steampowered.com/app/620610?utm_source=ingame_ats&utm_medium=dlc"
+ text: "The Heavy Cargo Pack DLC for American Truck Simulator just has been released and it is now avaiable on Steam for everyone willing to answer the really heavy duty calls..."
+}
+
+news_message : _nameless.1f3.5a9a.0c10 {
+ timestamp: 1486684800
+ type: dlc
+ title: "Valentine's Paint Jobs Pack"
+ image_hash: 997AC3413CB62843E1D3429E04D2717CA395098E6876834003007E5A616BD71B
+ url: "http://store.steampowered.com/app/588600?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Love is in the air and now you can customize your trucks with these new paint jobs to show your feelings or passion. We have also added small bonus in the form of a cabin accessory..."
+}
+
+news_message : _nameless.1f3.5a9a.1990 {
+ timestamp: 1481846400
+ type: dlc
+ title: "Trucking Christmas"
+ image_hash: 8B16F544EC93C2C7410DC4BA8E33E3C10C4754C1ECDB2DBF88260A51FE7931A4
+ url: "http://blog.scssoft.com/2016/12/trucking-christmas.html?utm_source=ingame_ats&utm_medium=dlc"
+ text: "It is Christmas time again, and everything around us is being tuned and decorated in colors and motifs related to this special part of the year..."
+}
+
+news_message : _nameless.1f3.5a9a.1120 {
+ timestamp: 1465171200
+ type: dlc
+ title: "Arizona map expansion released!"
+ image_hash: 9317D896CAC27439E01CCB02F9036210B4239205353E9C056927A4E9287CC281
+ url: "http://blog.scssoft.com/2016/06/arizona-map-expansion-for-american.html?utm_source=ingame_ats&utm_medium=dlc"
+ text: "We are happy to announce that we are releasing Arizona DLC for American Truck Simulator today. Discover 15 new cities, admire Colorado River with The Grand Canyon, and explore a section of the famous Route 66!"
+}
+
+news_message : _nameless.1f3.5a9a.05e0 {
+ timestamp: 1460505600
+ type: dlc
+ title: "Wheel Tuning Pack"
+ image_hash: C51F515A78F1576F10C8041D0EE0891C08C24A7A18A52C489655357AE2D94DD4
+ url: "http://store.steampowered.com/app/450550/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Ultimate wheel customization is here! Paint and customize your nuts, discs, hubs and hub covers exactly as you want!<br />Buy this DLC and get the Wheel Tuning Pack for Euro Truck Simulator 2 with your purchase."
+}
+
+news_message : _nameless.1f3.5a9a.13f0 {
+ timestamp: 1454371200
+ type: dlc
+ title: "Nevada DLC is Free and Available at Release"
+ image_hash: 5A0C43F452B31055011952A5D1FB3431F8E458FDBD2C876595FD1672E872B85F
+ url: "http://store.steampowered.com/app/270880/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Nevada DLC is free launch bonus and part of the initial American Truck Simulator release edition..."
+}
+
+news_message : _nameless.1f3.5a9a.1f30 {
+ timestamp: 1454284800
+ type: dlc
+ title: "Free Arizona DLC Coming Soon"
+ image_hash: BB6D7938A211EB9A51EDA4DCE4746D050AD8DB129ACAFEAFAAD64BB8B7ED8597
+ url: "http://blog.scssoft.com?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Arizona DLC is coming soon and yet again as free DLC for all American Trucks Simulator owners. Stay tuned for more details, screenshots and release date info on our blog..."
+}
+
+}
